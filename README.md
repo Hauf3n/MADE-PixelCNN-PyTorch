@@ -5,7 +5,7 @@ Used on coloured MNIST dataset, which is used for adversarial training.
 
 # Results
 
-The loss decreased by a factor of 2x by using MADE+PixelCNN rather than just using [my PixelCNN Implementation](https://github.com/Hauf3n/PixelCNN-Pytorch-coloured-MNIST)
+The loss decreased by a factor of 2x using MADE+PixelCNN rather than just using [my PixelCNN Implementation](https://github.com/Hauf3n/PixelCNN-Pytorch-coloured-MNIST).
 The numbers got a bad shape, but one can see the improvements in the background
 and there are no longer noisy pixels around the number shapes.   
 
