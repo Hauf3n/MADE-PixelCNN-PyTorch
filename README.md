@@ -1,6 +1,6 @@
 # MADE-PixelCNN-Pytorch
 
-[MADE](https://arxiv.org/abs/1502.03509) paper Implemenation with [PixelCNN](https://arxiv.org/abs/1601.06759) as an auxiliary input.
+[MADE](https://arxiv.org/abs/1502.03509) paper implemenation with [PixelCNN](https://arxiv.org/abs/1601.06759) as an auxiliary input.
 Used on coloured MNIST dataset, which is used for adversarial training.
 
 # Results
